@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Getting Started Simple Shopping Cart App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app was build for Javan React Test
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install all necessary dependancies
 
 ### `npm start`
 
